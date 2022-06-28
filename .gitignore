@@ -118,4 +118,5 @@ Thumbs.db
 /config/checkstyle/checkstyle.xml
 /core/.checkstyle
 
-config/
+config/.cache/
+.cache/
